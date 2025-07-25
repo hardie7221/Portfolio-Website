@@ -22,7 +22,7 @@ A modern and responsive portfolio website showcasing my projects, skills, and pr
 
 ## 🚀 Live Demo
 
-Visit the live website: [Portfolio Website](https://portfoliowebsite174.netlify.app/)
+Visit the live website: [Portfolio Website](https://portfoliowebsite7221.netlify.app/)
 
 ## 📌 Sections
 
@@ -49,10 +49,10 @@ cd Portfolio-Website
 
 ## 📝 License
 
-Copyright © 2025 Vansh Verma. All rights reserved.
+Copyright © 2025 Harsh Tyagi. All rights reserved.
 
 ## 🤝 Connect with Me
 
-- GitHub: [@vanshverma17](https://github.com/vanshverma17)
-- LinkedIn: [Vansh Verma](https://www.linkedin.com/in/vanshverma174/)
-- Twitter: [@VANSHVERMA174](https://x.com/VANSHVERMA174)
+- GitHub: [@hardie7221](https://github.com/hardie7221)
+- LinkedIn: [Harsh Tyagi](https://www.linkedin.com/in/harsh-tyagi-813360289/)
+- Twitter: [@HarshTy41027463](https://x.com/HarshTy41027463)
