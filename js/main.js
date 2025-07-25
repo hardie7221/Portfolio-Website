@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const typedElement = document.querySelector('.typed-text');
     if (typedElement) {
         new Typed(typedElement, {
-            strings: ['Frontend Developer', 'UI/UX Designer', 'Web Developer'],
+            strings: ['Frontend Developer', 'Bioinformatician', 'Web Developer'],
             typeSpeed: 50,
             backSpeed: 30,
             backDelay: 2000,
